@@ -9,4 +9,5 @@ This is a MVC movie rental store. Different useres(admins and clients) with diff
 
 ## Client login
 ![avatar](./resources/client-movies.jpg)
+
 ![avatar](./resources/client-new rental.jpg)

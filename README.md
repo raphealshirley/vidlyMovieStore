@@ -1,5 +1,10 @@
 # VidlyMovieStore
-This is a MVC movie rental store. Different useres(admins and clients) with different permissions. 
+This is a fully-functional MVC movie rental store. 
+Different useres(admins and clients) with different permissions. 
+
+## Techniques
+Front-end: Bootstrap, Bootbox, Datatable, Jquery, Ajax
+Database: EntityFramework: Code-first; SQLServer
 
 ## Admin login
 
